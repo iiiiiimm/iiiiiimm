@@ -1,7 +1,5 @@
 - Hi, I’m @iiiiiimm
-- 👀 I’m interested in ...  ..... cybersecurity 
-- I’m currently learning ...CTFs and mean to take notes 
-- 💞️ I’m looking to collaborate on ... Love to look at your codes
+ 
 - How to reach me ... [iiiimm](https://infosec.exchange/@iiiimm) 
 
 <!---
